@@ -9,7 +9,6 @@ public void setup()
 }
 public void draw()
 {
-        //not used
 }
 public int findFirstVowel(String sWord)
 
